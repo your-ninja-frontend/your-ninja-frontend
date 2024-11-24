@@ -78,7 +78,3 @@
 </div>
 
 ###
-
-<h2 align="left">See you soon</h2>
-
-###
