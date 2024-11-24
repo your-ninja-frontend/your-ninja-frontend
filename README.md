@@ -1,10 +1,3 @@
-
-<div align="center">
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm15eDl3bmV2eWFrYTI3N3U3eXZidnRlcG5wamhrdnY2M2cxaGo4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRH15ebBQboUMedyks/giphy.gif"  />
-</div>
-
-###
-
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>! My name is Max and I'm a Frontend Developer</h1>
 
 ###
@@ -71,10 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Contacts</h2>
 
 ###
@@ -91,11 +80,5 @@
 ###
 
 <h2 align="left">See you soon</h2>
-
-###
-
-<div align="center">
-  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE5N2hxanpuYmpsamlpbWlqNnh0OHFrZnRoMjVqb3pub3o4ajQ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Bl38gdtUK7WDdi59y/giphy.gif"  />
-</div>
 
 ###
